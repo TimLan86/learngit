@@ -7,6 +7,3 @@ Create a new branch is quick.
 Yes. Very quick.
 
 Create a new branch is quick and simple.
-
-
-Create a new branch is quick & simple.
